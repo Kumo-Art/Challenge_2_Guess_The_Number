@@ -51,7 +51,13 @@ while (play == "yes")
                 }
                 else
                 {
-                    Console.WriteLine("Sorry you got it wrong");
+                    Console.WriteLine("Sorry you got it wrong, try again ");
+                    string try2 = Console.ReadLine();
+                    
+                
+                    
+                        
+                    
                 }
             }
 
