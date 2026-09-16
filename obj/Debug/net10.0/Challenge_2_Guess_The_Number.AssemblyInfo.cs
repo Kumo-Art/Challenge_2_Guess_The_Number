@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Challenge_2_Guess_The_Number")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d180f9e06b334bae9c1237e5c3ffe625c470bb30")]
 [assembly: System.Reflection.AssemblyProductAttribute("Challenge_2_Guess_The_Number")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Challenge_2_Guess_The_Number")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
