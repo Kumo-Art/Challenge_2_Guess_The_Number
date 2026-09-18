@@ -4,20 +4,24 @@
 //Peer Reviewer Name: Zackary Santos
 //Review: Code works alright, however it does not let me re-enter my answer and I have to start all over again
 
+
+
+
 GuessNumberGame numberGame = new GuessNumberGame();
 
 numberGame.StartGame();
 
-while (numberGame.playAgain == "yes")
+
+string playAgain = Console.ReadLine();
+
+while(playAgain == "yes")
 {
-
-
+    
     numberGame.NewChoice();
 
 
 
-
-
+    
 }
 
 
@@ -31,7 +35,10 @@ while (numberGame.playAgain == "yes")
 
 
 
-if (numberGame.playAgain == "no")
+
+
+
+if (playAgain == "no")
 {
     Console.WriteLine("Thanks come again.");
 

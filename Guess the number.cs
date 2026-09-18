@@ -1,9 +1,7 @@
-using System.Security.Cryptography.X509Certificates;
-
 public class GuessNumberGame
 {
 
-public string playAgain = Console.ReadLine();
+
 
 
 
@@ -14,9 +12,14 @@ public void StartGame()
 
 Console.WriteLine("Welcome to guess the number, woud you like to play!: ");
 
+
 }
 public void NewChoice()
     {
+         string tryAgain;
+
+         do{
+         
          Console.WriteLine("Great, Choose a game, easy, medium, hard, or custom, enter choice now: ");
             string choice = Console.ReadLine();
 
@@ -187,18 +190,20 @@ public void NewChoice()
     }
 
 
+Console.WriteLine("Would you like to try again?");
+tryAgain = Console.ReadLine();
+         }while(tryAgain == "yes");
 
-
+        
+    if(tryAgain == "no")
+        { 
+            Console.WriteLine("Alright, thanks for playing");
+            
+        }
+    
+        
     }
     
-public void PlayAgain()
-    {
-        Console.WriteLine("Would you like to play again? yes or no");
-        Console.ReadLine();
-
-
-
-    }
 
 
 
