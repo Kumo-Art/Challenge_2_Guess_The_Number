@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Challenge_2_Guess_The_Number-1\\Challenge_2_Guess_The_Number.csproj",
+      "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Challenge_2_Guess_The_Number\\Challenge_2_Guess_The_Number.csproj",
       "projectName": "Challenge_2_Guess_The_Number",
-      "projectPath": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Challenge_2_Guess_The_Number-1\\Challenge_2_Guess_The_Number.csproj",
+      "projectPath": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Challenge_2_Guess_The_Number\\Challenge_2_Guess_The_Number.csproj",
       "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Challenge_2_Guess_The_Number-1\\obj\\",
+      "outputPath": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Challenge_2_Guess_The_Number\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config"
